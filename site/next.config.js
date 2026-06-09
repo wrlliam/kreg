@@ -11,7 +11,7 @@ const nextConfig = {
     contactUrl: 'https://github.com/wrlliam/kreg',
   },
   reactStrictMode: true,
-  basePath: '/1.0',
+  basePath: '/kasm-registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
